@@ -1,6 +1,6 @@
 # elastic-stack
 
-# Elasticsearch Course Site 
+# Elastic Stack Course Site 
 
 This site contains the content and labs for the Elastic Stack course. 
 
