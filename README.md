@@ -5,7 +5,7 @@
 This site contains the content and labs for the Elastic Stack course. 
 
 
-## [Course Content](https://www.dropbox.com/sh/pnx2klr4reiu01n/AADaY-GGaqOW_EaKifoMxB3ia?dl=0)
+## [Course Content](https://drive.google.com/elasticstack-class-content)
 
 ## Day 1 
 
