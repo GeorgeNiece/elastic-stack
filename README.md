@@ -1,6 +1,8 @@
+# elastic-stack
+
 # Elasticsearch Course Site 
 
-This site contains the content and labs for the Elasticsearch course. 
+This site contains the content and labs for the Elastic Stack course. 
 
 
 ## [Course Content](https://www.dropbox.com/sh/pnx2klr4reiu01n/AADaY-GGaqOW_EaKifoMxB3ia?dl=0)
@@ -9,7 +11,7 @@ This site contains the content and labs for the Elasticsearch course.
 
 ### Labs
 
-[Lab Setup](labs/001_setup/)
+[Lab SSH Setup](labs/001_setup/)
 
 Lab 1: [Installation](labs/01-install/)   
 
