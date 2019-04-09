@@ -23,7 +23,7 @@ Lab 3: [Create MovieLens mapping](labs/03-movielens-mapping/index.md)
 
 Lab 4: [Import MovieLens documents](labs/04-movielens-data/index.md)
 
-Lab 5: [Update document](labs/05-update-document/index.md)
+Lab 5: [Update documents](labs/05-update-document/index.md)
 
 Lab 6: [Version Conflict](labs/06-versions/index.md)
 
