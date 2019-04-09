@@ -6,6 +6,12 @@ Now that we have the mapping configured for ‘year’ we can use `curl` to inse
 
 Remember that for this purposes of this class we are using `curl` but in most other environments you would interact with the Elasticsearch API through a programming language, and there are client libraries available for `Python`, `Java`, `Golang` etc.. 
 
+Additionally, remember that you would have had to put an alias or a curl wrapper in place that correctly set the content type.
+
+If you have not done that, in your console window enter the following
+
+### alias curl="/usr/bin/curl -H 'Content-type: application/json' "
+
 ### Insert movie
 ```
 curl -XPUT 127.0.0.1:9200/movies/movie/109488 -d '
