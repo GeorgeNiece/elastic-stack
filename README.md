@@ -15,7 +15,7 @@ Experiment: [Elastic Stack Cloud AppDev Observability](https://drive.google.com/
 
 [Elastic Stack Sandbox SSH Setup](labs/001_setup/index.md)
 
-Lab 1: [Installation](labs/01-install/index.md)   
+Lab 1: [Elastic Stack sandbox setup](labs/01-install/index.md)   
 
 Lab 2: [Download dataset](labs/02-movielens/index.md) 
 
