@@ -15,13 +15,13 @@ Experiment: [Elastic Stack Cloud AppDev Observability](https://drive.google.com/
 
 [Elastic Stack Sandbox SSH Setup](labs/001_setup/)
 
-Lab 1: [Installation](labs/01-install/)   
+Lab 1: [Installation](labs/01-install/index.md)   
 
-Lab 2: [Download dataset](labs/02-movielens/) 
+Lab 2: [Download dataset](labs/02-movielens/index.md) 
 
-Lab 3: [Create MovieLens mapping](labs/03-movielens-mapping)
+Lab 3: [Create MovieLens mapping](labs/03-movielens-mapping/index.md)
 
-Lab 4: [Import MovieLens documents](labs/04-movielens-data)
+Lab 4: [Import MovieLens documents](labs/04-movielens-data/index.md)
 
 Lab 5: [Update document](labs/05-update-document)
 
