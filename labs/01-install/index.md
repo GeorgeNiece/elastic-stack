@@ -3,8 +3,9 @@ In this lab we will be installing and setting up Elasticsearch on an Ubuntu VM.
 
 
 ## Install Elasticsearch 
-Elasticsearch is based on Java, so we need to install a Java environment.
+Elasticsearch is based on Java, so we needed to install a Java environment.  We've already setup OpenJDK, but if you wanted the Oracle Java JDK you could do the following.
 
+(Optional - Utilize Oracle Java rather than OpenJDK)
 Add Oracle Java repository 
 ```
 sudo add-apt-repository ppa:webupd8team/java
@@ -21,6 +22,7 @@ Install Java
 ```
 sudo apt install oracle-java8-installer
 ```
+(End Optional - Utilize Oracle Java rather than OpenJDK)
 
 Now we can install Elasticsearch itself.
 
