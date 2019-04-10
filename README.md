@@ -23,6 +23,12 @@ Lab 3: [Create MovieLens mapping](labs/03-movielens-mapping/index.md)
 
 Lab 4: [Import MovieLens documents](labs/04-movielens-data/index.md)
 
+
+
+
+## Day 2
+
+### Labs 
 Lab 5: [Update documents](labs/05-update-document/index.md)
 
 Lab 6: [Version Conflict](labs/06-versions/index.md)
@@ -35,25 +41,21 @@ Lab 9: [Query tips](labs/09-search/index.md)
 
 Lab 10: [More Query tips](labs/10-more-search/index.md)
 
-
-## Day 2
-
-### Labs 
 Lab 11: [Prefix, Wildcard & Autocompletion](labs/11-prefix-wildcard/index.md)
 
-Lab 12: [Interacting with client libraries](labs/12-python/index.md)
+(OPTIONAL) Lab 12: [Interacting with client libraries](labs/12-python/index.md)
 
-Lab 13: [Logstash and MySQL](labs/13-logstash/index.md)
+(OPTIONAL) Lab 13: [Logstash and MySQL](labs/13-logstash/index.md)
 
 Lab 14: [Aggregates and Histograms](labs/14-aggs/index.md)
 
-Lab 15: [Getting started with Kibana](labs/15-kibana/index.md)
+<!-- (OPTIONAL) Lab 15: [Getting started with Kibana](labs/15-kibana/index.md) -->
 
-Lab 16: [Filebeat setup & integration](labs/16-filebeat/index.md)
+<!-- (OPTIONAL) Lab 16: [Filebeat setup & integration](labs/16-filebeat/index.md) -->
 
-Lab 17: [Multi-node cluster](labs/17-multi-node/index.md)
+<!-- (OPTIONAL) Lab 17: [Multi-node cluster](labs/17-multi-node/index.md) -->
 
-Lab 18: [More search fun!](labs/18-complex-queries/index.md)
+<!-- (OPTIONAL) Lab 18: [More search fun!](labs/18-complex-queries/index.md) -->
 
 
 # Class Feedback
