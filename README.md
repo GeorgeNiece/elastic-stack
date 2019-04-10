@@ -48,13 +48,13 @@ Lab 11: [Prefix, Wildcard & Autocompletion](labs/11-prefix-wildcard/index.md)
 
 Lab 14: [Aggregates and Histograms](labs/14-aggs/index.md)
 
-<!-- (OPTIONAL) Lab 15: [Getting started with Kibana](labs/15-kibana/index.md) -->
+(OPTIONAL) Lab 15: [Getting started with Kibana](labs/15-kibana/index.md) 
 
-<!-- (OPTIONAL) Lab 16: [Filebeat setup & integration](labs/16-filebeat/index.md) -->
+(OPTIONAL) Lab 16: [Filebeat setup & integration](labs/16-filebeat/index.md) 
 
-<!-- (OPTIONAL) Lab 17: [Multi-node cluster](labs/17-multi-node/index.md) -->
+(OPTIONAL) Lab 17: [Multi-node cluster](labs/17-multi-node/index.md) 
 
-<!-- (OPTIONAL) Lab 18: [More search fun!](labs/18-complex-queries/index.md) -->
+(OPTIONAL) Lab 18: [More search fun!](labs/18-complex-queries/index.md) 
 
 
 # Class Feedback
