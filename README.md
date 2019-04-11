@@ -5,13 +5,13 @@
 This site contains the content and labs for the Elastic Stack course. 
 
 
-## [Course Content Day 1](https://drive.google.com/file/d/1nH8k3TITrDJ0bn6tmCDPiGBkSg4C-Kxd/view?usp=sharing)
-## [Course Content Day 2](https://drive.google.com/file/d/1iy8remi_7yfiNzJF955lRkSzXS2avDT9/view?usp=sharing)
+<!-- ## [Course Content Day 1](https://drive.google.com/file/d/1nH8k3TITrDJ0bn6tmCDPiGBkSg4C-Kxd/view?usp=sharing) -->
+<!-- ## [Course Content Day 2](https://drive.google.com/file/d/1iy8remi_7yfiNzJF955lRkSzXS2avDT9/view?usp=sharing) -->
 ## Day 1 
 
 ### Labs
 
-Experiment: [Elastic Stack Cloud AppDev Observability](https://drive.google.com/file/d/1fiIH0pQEnqN07XPbcgtzoKTq9PEIUUqQ/view?usp=sharing)
+<!-- Experiment: [Elastic Stack Cloud AppDev Observability](https://drive.google.com/file/d/1fiIH0pQEnqN07XPbcgtzoKTq9PEIUUqQ/view?usp=sharing) -->
 
 [Elastic Stack Sandbox SSH Setup](labs/001_setup/index.md)
 
@@ -48,13 +48,13 @@ Lab 11: [Prefix, Wildcard & Autocompletion](labs/11-prefix-wildcard/index.md)
 
 Lab 14: [Aggregates and Histograms](labs/14-aggs/index.md)
 
-(OPTIONAL) Lab 15: [Getting started with Kibana](labs/15-kibana/index.md) 
+<!-- (OPTIONAL) Lab 15: [Getting started with Kibana](labs/15-kibana/index.md) -->
 
-(OPTIONAL) Lab 16: [Filebeat setup & integration](labs/16-filebeat/index.md) 
+<!-- (OPTIONAL) Lab 16: [Filebeat setup & integration](labs/16-filebeat/index.md) --> 
 
-(OPTIONAL) Lab 17: [Multi-node cluster](labs/17-multi-node/index.md) 
+<!-- (OPTIONAL) Lab 17: [Multi-node cluster](labs/17-multi-node/index.md) -->
 
-(OPTIONAL) Lab 18: [More search fun!](labs/18-complex-queries/index.md) 
+<!-- (OPTIONAL) Lab 18: [More search fun!](labs/18-complex-queries/index.md) -->
 
 
 # Class Feedback
