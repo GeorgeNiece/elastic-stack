@@ -11,7 +11,7 @@ This site contains the content and labs for the Elastic Stack course.
 
 ### Labs
 
-<!-- Experiment: [Elastic Stack Cloud AppDev Observability](https://drive.google.com/file/d/1fiIH0pQEnqN07XPbcgtzoKTq9PEIUUqQ/view?usp=sharing)  -->
+Experiment: [Elastic Stack Cloud AppDev Observability](https://drive.google.com/file/d/1fiIH0pQEnqN07XPbcgtzoKTq9PEIUUqQ/view?usp=sharing)  
 
 [Elastic Stack Sandbox SSH Setup](labs/001_setup/index.md)
 
