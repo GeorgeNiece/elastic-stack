@@ -46,7 +46,7 @@ Lab 11: [Prefix, Wildcard & Autocompletion](labs/11-prefix-wildcard/index.md)
 
 (OPTIONAL) Lab 13: [Logstash and MySQL](labs/13-logstash/index.md)
 
-Lab 14: [Aggregates and Histograms](labs/14-aggs/index.md)
+<!--Lab 14: [Aggregates and Histograms](labs/14-aggs/index.md)-->
 
 <!-- (OPTIONAL) Lab 15: [Getting started with Kibana](labs/15-kibana/index.md) -->
 
